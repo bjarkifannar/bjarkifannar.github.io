@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	color: #0097C9;
+}
+
+h2 {
+	color: #666666;
+}
+
+h3 {
+	border: 2px solid #FF0000;
+}
